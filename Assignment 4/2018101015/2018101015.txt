@@ -1,0 +1,11 @@
+6
+f[0]=='Irregular Sleep' and f[1]=='High', No
+f[0]=='Irregular Sleep' and f[1]=='Normal', Yes
+f[0]=='Irregular Sleep' and f[1]=='Low', Yes
+f[0]=='Good Sleep' and f[1]=='High' and f[2]=='Yes', Yes
+f[0]=='Good Sleep' and f[1]=='High' and f[2]=='No', No
+f[0]=='Good Sleep' and f[1]=='Normal', No
+f[0]=='Good Sleep' and f[1]=='Low', No
+f[0]=='Long Sleep' and f[1]=='High', No
+f[0]=='Long Sleep' and f[1]=='Normal', Yes
+f[0]=='Long Sleep' and f[1]=='Low', Yes
